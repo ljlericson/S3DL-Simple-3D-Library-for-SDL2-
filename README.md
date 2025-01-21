@@ -27,3 +27,6 @@
   compile command (works with majority of compilers):
   g++ example.cpp -lmingw32 -lSDL2 -llibSDL2_image -llibSDL2_net -llibSDL2_ttf -o example.exe
   (replace example with you project name)
+
+  compile command (for Linux)
+  g++ src/client.cpp -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_net -lSDL2_ttf -lGLEW -lOpenGL -o "3D Engine"
