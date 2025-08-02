@@ -1,1 +1,1 @@
-This is my first ever 3D project, using SDL2 and OpenGL. The code in this project is not very good since I was still fairly new to programming when I started it. Also there are a lot of bugs so I would discourage the use of it in any other projects.
+This was my first ever 3D project, using SDL2 and OpenGL. The code in this project's code is not very good since I was still fairly new to programming when I started it. Also there are a lot of bugs so I would discourage the use of this library in any other projects.
